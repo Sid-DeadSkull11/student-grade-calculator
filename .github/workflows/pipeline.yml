@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: siddeadskull11/student-grade-calculator:v1
+          tags: siddeadskull11/student-grade-calculator:v2
